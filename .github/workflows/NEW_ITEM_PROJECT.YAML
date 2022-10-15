@@ -11,5 +11,5 @@ jobs:
       - uses: alex-page/github-project-automation-plus@v0.8.1
         with:
           project: profile's backlog
-          column: 🆕 New
+          column: New
           repo-token: ${{ secrets.FJC_PROFILE_TOKEN }}
